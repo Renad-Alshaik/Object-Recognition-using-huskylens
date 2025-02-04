@@ -16,5 +16,5 @@ HuskyLens provides multiple AI modes. For object detection, ensure the device is
 2- Select Object Recognition mode.
 3- Long press the Learning Button to save an object.
 
-Hint : Need to download some library
+Hint : I download some library needed from github
 
