@@ -9,3 +9,12 @@ I will provides an overview of using HuskyLens for object detection and integrat
 - Serial/I2C Communication: Easily integrates with microcontrollers.
 - Touchscreen Interface: Simple UI for learning objects.
 - Customizable: Supports firmware updates for enhancements.
+
+# How use 
+HuskyLens provides multiple AI modes. For object detection, ensure the device is set to Object Recognition Mode:
+1- Press the Function Button to enter the menu.
+2- Select Object Recognition mode.
+3- Long press the Learning Button to save an object.
+
+Hint : Need to download some library
+
